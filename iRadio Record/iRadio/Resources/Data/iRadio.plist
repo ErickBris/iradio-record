@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Fox News</string>
+		<key>url</key>
+		<string>http://us1.internet-radio.com:8112/</string>
+		<key>desc</key>
+		<string>news</string>
+		<key>image</key>
+		<string>http://global.fncstatic.com/static/v/all/img/og/og-fn-foxnews.jpg</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>RTL</string>
+		<key>url</key>
+		<string>http://81.92.238.32:80/listen.pls</string>
+		<key>desc</key>
+		<string>News</string>
+		<key>image</key>
+		<string>https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/RTL_logo.svg/2000px-RTL_logo.svg.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>BBC Radio 1</string>
+		<key>url</key>
+		<string>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p</string>
+		<key>desc</key>
+		<string>news</string>
+		<key>image</key>
+		<string>https://pbs.twimg.com/profile_images/723561620761391104/BQmg7aTz.jpg</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Quran in France </string>
+		<key>url</key>
+		<string>http://184.173.185.71:9744/</string>
+		<key>desc</key>
+		<string>Quran</string>
+		<key>image</key>
+		<string>http://ai-i1.infcdn.net/icons_siandroid/png/200/2965/2965062.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>British Comedy 2</string>
+		<key>url</key>
+		<string>http://149.255.59.164:8009/</string>
+		<key>desc</key>
+		<string>Comedy</string>
+		<key>image</key>
+		<string>http://rokradio.com/wp-content/uploads/2016/03/ROK-RADIO-Small.jpg</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>BBC Arabic</string>
+		<key>url</key>
+		<string>http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba_backup</string>
+		<key>desc</key>
+		<string>news</string>
+		<key>image</key>
+		<string>http://radiothe.com/wp-content/uploads/2015/11/BBC-Arabic-Radio.jpg</string>
+	</dict>
+</array>
+</plist>
